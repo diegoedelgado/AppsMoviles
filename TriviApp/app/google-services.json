@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477009737901",
+    "firebase_url": "https://triviapp-5a333.firebaseio.com",
+    "project_id": "triviapp-5a333",
+    "storage_bucket": "triviapp-5a333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477009737901:android:0ca9ec66a2aa63c8",
+        "android_client_info": {
+          "package_name": "dd.triviapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477009737901-ndgtdshj8ihn2g4s0ehlod3je3jgd9g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dd.triviapp",
+            "certificate_hash": "2EAA3C23679FF8B110EEDF374421F7A663D6A270"
+          }
+        },
+        {
+          "client_id": "477009737901-10e9a3sa8jbjvvo8fbmhqjbumfvpbulu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCaUO1u6ZSM6GeF2T48fTMjqrO4jwh_WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477009737901-10e9a3sa8jbjvvo8fbmhqjbumfvpbulu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
